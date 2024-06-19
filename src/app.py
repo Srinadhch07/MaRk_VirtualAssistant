@@ -18,7 +18,9 @@ from sys import platform
 import pyjokes
 import cv2
 import subprocess
+from dotenv import load_dotenv
 
+load_dotenv()
 
 # Resurces allocation
 
@@ -101,7 +103,7 @@ greeting_responses = {
 
 
 
-genai.configure(api_key="AIzaSyD9a47SJ5kKfmMKpX8A2c5ox_CsYp_E52o")
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
     # Set up the model
 generation_config = {
     "temperature": 0.9,
