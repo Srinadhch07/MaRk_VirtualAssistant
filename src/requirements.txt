@@ -1,0 +1,7 @@
+pyttsx3
+speech_recognition
+pyjokes
+opencv-python
+wikipedia
+google-generativeai
+
