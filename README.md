@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ## Myself
 
-Check out my LinkedIn Profile [My LinkedIn Profile](https://linkedin.com/in/srinadh-ch-887550232/)
+Check out my LinkedIn Profile [My LinkedIn Profile](https://linkedin.com/in/srinadh-chintakindi-887550232/)
 
 ## Contributions !
 
